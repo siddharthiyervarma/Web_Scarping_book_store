@@ -1,4 +1,4 @@
-## Project Description: Bookstore Analytics
+## Project Description: Bookstore WEb Scraping
 Introduction:
 The "Bookstore Analytics" project involves the analysis of a dataset containing information about books available in an online bookstore. The dataset includes details such as the book title, price, ratings, and URL.
 
